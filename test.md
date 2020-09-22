@@ -147,14 +147,10 @@ Feedback
 
 This project is massively time-consuming, but I guess you already know that. This is still interesting and motivating to work on a renderer. The access to the cluster until the project submission deadline would have been very useful.
 
+This math is inline $`a^2+b^2=c^2`$.
 
-<!--- Markdeep & image comparison library - probably no need to change anything below -->
-<style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="../resources/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="../resources/jquery.event.move.js"></script>
-<script src="../resources/jquery.twentytwenty.js"></script>
-<link href="../resources/offcanvas.css" rel="stylesheet">
-<link href="../resources/twentytwenty.css" rel="stylesheet" type="text/css" />
-<script>
-$(window).load(function(){$(".twentytwenty-container").twentytwenty({default_offset_pct: 0.5});});
-</script>
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
