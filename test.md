@@ -116,7 +116,7 @@ They also played with $\sigma_a$, $\beta_n$ and $\alpha$ and so did I. Here are 
 </div>
 As expected the absorption changes the color of the hair. A high absorption yield darker hair while a sufficiently low absorption yield blond hair.
 
-Here are three renders produced with $\eta = 1.55$, $\sigma_a = (0.42, 0.7, 1.37)$, $\beta_m = 0.3$, $\alpha = 2.0$ and $\beta_n$ with a value respectively at $0.3$, $0.6$ and $0.9$.
+Here are three renders produced with $'\eta = 1.55'$, $'\sigma_a = (0.42, 0.7, 1.37)'$, $'\beta_m = 0.3'$, $\alpha = 2.0$ and $\beta_n$ with a value respectively at $0.3$, $0.6$ and $0.9$.
 <div class="twentytwenty-container">
     <img src="hair/cbox_hair0_1.18_0.3.png" alt="0.3">
     <img src="hair/cbox_hair0_1.18_0.6.png" alt="0.6">
