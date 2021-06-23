@@ -1,12 +1,14 @@
 {
 	"Applications": {
-		"egg-sorter-app": {
+		"egg-sorter-app": [
 
-		},
-		"bionomous-updater": {
+		],
+		"bionomous-updater": [
 
-		},
-		
+		],
+		"bionomous-help-center": [
+
+		]
 
 	},
 	"Microcontroller": {
