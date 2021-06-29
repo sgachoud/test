@@ -1,24 +1,31 @@
 {
 	"Applications": {
-		"egg-sorter-app": [
-
-		],
-		"bionomous-updater": [
-
-		],
-		"bionomous-help-center": [
-			"1.0.0"
-		],
-		"test1": [
-		],
-		"test2": [
-		]
+		"egg-sorter-app": {
+			"versions": []
+		},
+		"bionomous-updater": {
+			"versions": []
+		},
+		"bionomous-help-center": {
+			"name": "Bionomous Help Center",
+			"versions": [
+				"1.0.0"
+			]
+		},
+		"test1": {
+			"versions": []
+		},
+		"test2": {
+			"versions": []
+		},
 
 	},
 	"Microcontroller": {
-
+		"versions": []
+		},
 	},
 	"Android": {
-
+		"versions": []
+		},
 	}
 }
