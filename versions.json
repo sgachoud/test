@@ -1,5 +1,5 @@
 {
-	"Applications": {
+	"applications": {
 		"egg-sorter-app": {
 			"versions": []
 		},
@@ -7,9 +7,12 @@
 			"versions": []
 		},
 		"bionomous-help-center": {
+			"appPackage": "ch.bionomous.helpcenter",
 			"name": "Bionomous Help Center",
+			"folder": "bionomous-help-center",
 			"versions": [
-				"1.0.0"
+				"2.0.0-eawag",
+				"2.1.0-eawag"
 			]
 		},
 		"test1": {
@@ -20,10 +23,10 @@
 		}
 
 	},
-	"Microcontroller": {
+	"microcontroller": {
 		"versions": []
 	},
-	"Android": {
+	"android": {
 		"versions": []
 	}
 }
