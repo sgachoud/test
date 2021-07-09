@@ -14,14 +14,7 @@
 				"2.0.0-eawag",
 				"2.1.0-eawag"
 			]
-		},
-		"test1": {
-			"versions": []
-		},
-		"test2": {
-			"versions": []
 		}
-
 	},
 	"microcontroller": {
 		"versions": []
